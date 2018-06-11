@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FoodDelivery-Partner</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_order">Order</string>
+    <string name="title_Menus">Menus</string>
+    <string name="title_profile">Profile</string>
+    <string name="menu_category">Category</string>
+    <string name="menu_item_name">Menu Item Name</string>
+    <string name="menu_item_price">Menu Item Price</string>
+    <string name="positive_button_add">Add</string>
+    <string name="enter_10_digit_mobile_number">Enter 10 Digit Mobile Number</string>
+    <string name="hint_enter_phone_number">Enter Phone Number</string>
+    <string name="button_get_otp">Get OTP</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="hint_enter_otp">Enter OTP</string>
+    <string name="button_verify">Verify</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="hint_shop_name">Enter Shop Name</string>
+    <string name="hint_owner_name">Enter Owner Name</string>
+    <string name="button_submit">Subit</string>
+    <string name="action_logout">Logout</string>
+</resources>
